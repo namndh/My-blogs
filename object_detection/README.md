@@ -1,3 +1,4 @@
+@import "{{ site.theme }}";
 ## Object Detection - Nhận dạng vật thể
 ### Nhận dạng vật thể hay còn gọi là object detection là task mà trong đó ta sẽ xác định vị trí của vật thể đồng thời phân loại nhãn của vật thể trong không gian ảnh. Object detection là 1 trong số những lĩnh vực quan trọng của Computer Vision và AI, Object detection được sử dụng rộng rãi trong các ứng dụng như Robotics, xe tự hành (self-driving cars), giám sát an ninh (video surveillance), phân tích videos (video analysis).
 
