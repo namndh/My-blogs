@@ -1,0 +1,3 @@
+## Fast Region-based Convolutional Neural Network
+### Fast Region-based Convolutional Neural Network hay FRCNN là 1 thuật toán nổi tiếng trong bài toán Object detetion. Được công bố lần đầu năm 2015 bởi R. Girschick tại hội nghị IEEE về thị giác máy tính (IEEE International Conference on Computer Vision). FRCNN thể hiện được khả năng của mình bằng cách đạt độ chính xác vượt trội so với các phương pháp khác trên các tập dữ liệu VOC 2007 và VOC 2012 [[1]]()
+###
