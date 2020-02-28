@@ -10,7 +10,7 @@
 - Ai quen mình 1 thời gian thì đều biết mình có biệt danh là béo :D và trong năm vừa rồi thì mình bắt đầu 1 quá trình giảm cân ngắn hạn khoảng 3 tháng. Và kết quả đem lại mặc dù còn cách số cân ideal 1 khoảng khá xa nhưng nó chứng minh 1 điều là giáo án và phương pháp luyện tập là đúng đắn và có hiệu quả để có thể tiếp tục áp dụng trong thời gian tới :">
 
 ## Về những mối quan hệ xã hội
-- Tình yêu thì vẫn bền vững là chưa có, nhưng những người mình gặp trong năm qua thực sự đem lại cho mình nhiều kỉ niệm đẹp, đem lại cho mình sự tự tin vào giá trị của bản thân cũng như nhận ra được những sự thiếu xót của bản thân. Rất cảm ơn các bạn <3
+- Tình yêu thì vẫn bền vững là chưa có, nhưng những người mình gặp trong năm qua thực sự đem lại cho mình nhiều kỉ niệm đẹp, đem lại cho mình sự tự tin vào giá trị của bản thân cũng như nhận ra được những sự thiếu sót của bản thân. Rất cảm ơn các bạn <3
 
 
 ## Về việc đọc
